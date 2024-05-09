@@ -134,12 +134,12 @@ export const websiteData = {
       {
         name: "POOL Token Prize Pool",
         url: "https://optimistic.etherscan.io/address/0xe32e5E1c5f0c80bD26Def2d0EA5008C107000d6A",
-        image: "/images/poolprize.png",
+        image: "/images/oppoolprize.png",
       },
       {
         name: "ETH Prize Pool",
         url: "https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55#code",
-        image: "/images/ethprize.png",
+        image: "/images/opethprize.png",
       },
     ],
     "prize-vaults": [
