@@ -39,13 +39,13 @@ export const websiteData = {
       {
         name: "Splash.wtf",
         url: "https://splash.wtf/",
-        image: "/images/ui-3.png",
+        image: "/images/splash.png",
         code: "https://github.com/Splash-wtf",
       },
       {
         name: "Pooltime.app",
         url: "https://pooltime.app/",
-        image: "/images/ui-2.png",
+        image: "/images/pooltime.png",
       },
       {
         name: "Cabana.fi",
@@ -115,6 +115,12 @@ export const websiteData = {
         name: "Pool Together Docs",
         url: "https://dev.pooltogether.com/",
         image: "/images/ptdocs.png",
+      },
+      {
+        name: "Cabana.fi",
+        url: "https://cabana.fi/",
+        image: "/images/cabana.png",
+        code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
       },
     ],
     "prize-pools": [
