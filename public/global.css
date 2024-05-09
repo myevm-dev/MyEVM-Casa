@@ -2,16 +2,16 @@
 
 :root {
 	--text: rgb(244, 244, 244);
-	--background: rgb(22, 22, 22);
-	--primary: rgb(218, 237, 110);
+	--background: rgb(0, 0, 0);
+	--primary: #4D25A1;
 	--primary-a: rgba(218, 237, 110, 0.2);
 	--primary-a2: rgba(218, 237, 110, 0);
-	--secondary: rgb(0, 0, 0);
-	--secondary-a: rgba(0, 0, 0, 0.5);
+	--secondary: rgb(13, 12, 12);
+	--secondary-a: rgba(38, 36, 36, 0.5);
 	--accent: rgb(255, 255, 255);
-	--accent-a: rgba(255, 255, 255, 0.15);
+	--accent-a: rgba(42, 41, 41, 0.354);
 	--accent-a2: rgba(255, 255, 255, 0.3);
-	--primary-l: hsl(69, 78%, 68%);
+	--primary-l: #21064E;
 
 	--s: 14px;
 	--p: 16px;
