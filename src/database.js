@@ -126,7 +126,7 @@ export const websiteData = {
     "Contract-Addresses": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
@@ -153,49 +153,49 @@ export const websiteData = {
     "prize-hooks": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz",
         image: "/images/comingsoon.png",
       },
     ],
     "NFTs": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "Bots": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "PT-Tools": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "Utilites": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "Games": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "Integrations": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
@@ -209,14 +209,14 @@ export const websiteData = {
     "Branding": [
       {
         name: "Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
     "More": [
       {
         name: "'Soon",
-        url: "https://recap.companies.tools/",
+        url: "https://ptbook.xyz/",
         image: "/images/comingsoon.png",
       },
     ],
