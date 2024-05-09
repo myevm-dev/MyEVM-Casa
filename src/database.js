@@ -71,7 +71,7 @@ export const websiteData = {
         image: "/images/lens.png",
       },
       {
-        name: "Medium.xyz",
+        name: "Medium",
         url: "https://medium.com/pooltogether",
         image: "/images/medium.png",
       },
@@ -91,7 +91,7 @@ export const websiteData = {
         image: "/images/discord.png",
       },
       {
-        name: "X.com",
+        name: "X",
         url: "https://x.com/pooltogether_",
         image: "/images/x.png",
       },
@@ -101,7 +101,7 @@ export const websiteData = {
         image: "/images/forum.png",
       },
       {
-        name: "Tally Governance Voting",
+        name: "Tally Gov Voting",
         url: "https://www.tally.xyz/gov/pooltogether",
         image: "/images/tally.png",
         code: "https://github.com/withtally/",
@@ -121,6 +121,13 @@ export const websiteData = {
         url: "https://cabana.fi/",
         image: "/images/cabana.png",
         code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
+      },
+    ],
+    "Contract-Addresses": [
+      {
+        name: "Soon",
+        url: "https://recap.companies.tools/",
+        image: "/images/comingsoon.png",
       },
     ],
     "prize-pools": [
@@ -179,6 +186,13 @@ export const websiteData = {
       },
     ],
     "Games": [
+      {
+        name: "Soon",
+        url: "https://recap.companies.tools/",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "Integrations": [
       {
         name: "Soon",
         url: "https://recap.companies.tools/",
