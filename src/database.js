@@ -19,16 +19,16 @@ export const websiteData = {
         code: "https://github.com/splash-xyz",
       },
       {
-        name: "PT Leaderboard",
-        url: "https://pt-leaderboard.vercel.app/",
-        image: "/images/points.png",
-        code: "https://github.com/Ncookiez/pt-leaderboard",
-      },
-      {
         name: "Cabana Lists",
         url: "https://lists.cabana.fi/",
         image: "/images/cabanalists.png",
         code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
+      },
+      {
+        name: "PT Leaderboard",
+        url: "https://pt-leaderboard.vercel.app/",
+        image: "/images/points.png",
+        code: "https://github.com/Ncookiez/pt-leaderboard",
       },
       {
         name: "Rewards Builder",
@@ -62,6 +62,16 @@ export const websiteData = {
     ],
     "Links": [
       {
+        name: "Github Generation Software",
+        url: "https://github.com/GenerationSoftware/",
+        image: "/images/github.png",
+      },
+      {
+        name: "Github Pool Together",
+        url: "https://github.com/pooltogether",
+        image: "/images/github.png",
+      },
+      {
         name: "Mirror",
         url: "https://pooltogether.mirror.xyz/",
         image: "/images/mirror.png",
@@ -80,16 +90,6 @@ export const websiteData = {
         name: "Medium",
         url: "https://medium.com/pooltogether",
         image: "/images/medium.png",
-      },
-      {
-        name: "Github Generation Software",
-        url: "https://github.com/GenerationSoftware/",
-        image: "/images/github.png",
-      },
-      {
-        name: "Github Pool Together",
-        url: "https://github.com/pooltogether",
-        image: "/images/github.png",
       },
       {
         name: "Discord Community",
@@ -118,20 +118,37 @@ export const websiteData = {
         image: "/images/treasury.png",
       },
       {
-        name: "Pool Together User Docs",
-        url: "https://dev.pooltogether.com/",
-        image: "/images/userdocs.png",
-      },
-      {
         name: "Pool Together Dev Docs",
         url: "https://dev.pooltogether.com/",
         image: "/images/devdocs.png",
+      },
+      {
+        name: "Pool Together User Docs",
+        url: "https://dev.pooltogether.com/",
+        image: "/images/userdocs.png",
       },
       {
         name: "Cabana.fi",
         url: "https://cabana.fi/",
         image: "/images/cabana.png",
         code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
+      },
+    ],
+    "yield-sources": [
+      {
+        name: "Aave",
+        url: "https://aave.com/",
+        image: "/images/aave.png",
+      },
+      {
+        name: "Beefy Finance",
+        url: "https://beefy.finance/",
+        image: "/images/beefy.png",
+      },
+      {
+        name: "Sonne Finance",
+        url: "https://sonne.finance/",
+        image: "/images/sonne.png",
       },
     ],
     "prize-pools": [
@@ -148,14 +165,6 @@ export const websiteData = {
         code: "https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55#code",
       },
     ],
-    "yield-sources": [
-      {
-        name: "Soon",
-        url: "https://redneck.media/",
-        image: "/images/comingsoon.png",
-      },
-    ],
-
     "prize-hooks": [
       {
         name: "Soon",
@@ -163,11 +172,36 @@ export const websiteData = {
         image: "/images/comingsoon.png",
       },
     ],
-    "NFTs": [
+    "prize-liquidators": [
       {
         name: "Soon",
-        url: "https://ptbook.xyz/",
+        url: "https://ptbook.xyz",
         image: "/images/comingsoon.png",
+      },
+    ],
+    "prize-claimers": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "NFTs": [
+            {
+        name: "Pooly Defense",
+        url: "https://opensea.io/collection/pooly-pfers",
+        image: "/images/poolynft.png",
+      },
+      {
+        name: "Pool Domains",
+        url: "https://names.pooly.me/#/",
+        image: "/images/domains.png",
+      },
+      {
+        name: "Pfers",
+        url: "https://opensea.io/collection/pooly-pfers",
+        image: "/images/comingsoon.png",
+        code: "https://etherscan.io/address/0xbcc664b1e6848caba2eb2f3de6e21f81b9276dd8"
       },
     ],
     "Games": [
@@ -179,46 +213,86 @@ export const websiteData = {
     ],
     "Opchain-Contracts": [
       {
-        name: "Soon",
+        name: "Rewards Builder",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/opetherscan.png",
       },
       {
-        name: "Soon",
+        name: "Claimer",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/opetherscan.png",
       },
       {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        name: "Draw Fund",
+        url: "https://ptbook.xyz",
+        image: "/images/opetherscan.png",
       },
       {
-        name: "Soon",
+        name: "Prize Pool",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/opetherscan.png",
+      },
+      {
+        name: "Random Number",
+        url: "https://ptbook.xyz/",
+        image: "/images/opetherscan.png",
+      },
+      {
+        name: "Yield Liquidators",
+        url: "https://ptbook.xyz/",
+        image: "/images/opetherscan.png",
+      },
+      {
+        name: "Vault Factory",
+        url: "https://ptbook.xyz/",
+        image: "/images/opetherscan.png",
+      },
+      {
+        name: "Protocol Overview",
+        url: "https://ptbook.xyz/",
+        image: "/images/opoverview.png",
       },
     ],
     "Basechain-Contracts": [
       {
-        name: "Soon",
+        name: "Rewards Builder",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/basescan.png",
       },
       {
-        name: "Soon",
+        name: "Claimer",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/basescan.png",
       },
       {
-        name: "Soon",
+        name: "Draw Fund",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/basescan.png",
       },
       {
-        name: "Soon",
+        name: "Prize Pool",
         url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        image: "/images/basescan.png",
+      },
+      {
+        name: "Random Number",
+        url: "https://ptbook.xyz/",
+        image: "/images/basescan.png",
+      },
+      {
+        name: "Yield Liquidators",
+        url: "https://ptbook.xyz/",
+        image: "/images/basescan.png",
+      },
+      {
+        name: "Vault Factory",
+        url: "https://ptbook.xyz/",
+        image: "/images/basescan.png",
+      },
+      {
+        name: "Protocol Overview",
+        url: "https://ptbook.xyz/",
+        image: "/images/baseoverview.png",
       },
     ],
     "Bots": [
@@ -230,9 +304,14 @@ export const websiteData = {
     ],
     "Utilites": [
       {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
+        name: "pooltogether.eth Subdomains",
+        url: "https://namestone.xyz/pooltogether",
+        image: "/images/namestone.png",
+      },
+      {
+        name: "Pool.limo",
+        url: "https://pool.limo/",
+        image: "/images/poollimo.png",
       },
     ],
     "In-The-News": [
@@ -244,15 +323,25 @@ export const websiteData = {
     ],
     "Branding": [
       {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
+        name: "Brand Guidelines",
+        url: "https://www.figma.com/community/file/1296919804512902494",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "UI Kit",
+        url: "https://www.figma.com/community/file/1312204004590586926",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Brand Kit",
+        url: "https://www.figma.com/community/file/1309277420331106706/pooltogether-brand-kit-v2",
         image: "/images/comingsoon.png",
       },
     ],
     "More": [
       {
-        name: "'Soon",
-        url: "https://ptbook.xyz/",
+        name: "Pooly Merch Store",
+        url: "https://pooly.me/",
         image: "/images/comingsoon.png",
       },
     ],
