@@ -19,6 +19,12 @@ export const websiteData = {
         code: "https://github.com/splash-xyz",
       },
       {
+        name: "PT Leaderboard",
+        url: "https://pt-leaderboard.vercel.app/",
+        image: "/images/points.png",
+        code: "https://github.com/Ncookiez/pt-leaderboard",
+      },
+      {
         name: "Cabana Lists",
         url: "https://lists.cabana.fi/",
         image: "/images/cabanalists.png",
@@ -112,9 +118,14 @@ export const websiteData = {
         image: "/images/treasury.png",
       },
       {
-        name: "Pool Together Docs",
+        name: "Pool Together User Docs",
         url: "https://dev.pooltogether.com/",
-        image: "/images/ptdocs.png",
+        image: "/images/userdocs.png",
+      },
+      {
+        name: "Pool Together Dev Docs",
+        url: "https://dev.pooltogether.com/",
+        image: "/images/devdocs.png",
       },
       {
         name: "Cabana.fi",
@@ -123,7 +134,44 @@ export const websiteData = {
         code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
       },
     ],
-    "Contract-Addresses": [
+    "Optimism-Contracts": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "Base-Contracts": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
       {
         name: "Soon",
         url: "https://ptbook.xyz/",
@@ -133,15 +181,15 @@ export const websiteData = {
     "prize-pools": [
       {
         name: "POOL Token Prize Pool",
-        url: "https://carary.pooltime.app/vaults",
+        url: "https://canary.pooltime.app/",
         image: "/images/oppoolprize.png",
-        code: "https://optimistic.etherscan.io/address/0xe32e5E1c5f0c80bD26Def2d0EA5008C107000d6A"
-      },
+        code: "https://optimistic.etherscan.io/address/0xe32e5E1c5f0c80bD26Def2d0EA5008C107000d6A",
+       },
       {
         name: "ETH Prize Pool",
         url: "https://splash.wtf",
         image: "/images/opethprize.png",
-        code: "https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55#code"
+        code: "https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55#code",
       },
     ],
     "prize-vaults": [

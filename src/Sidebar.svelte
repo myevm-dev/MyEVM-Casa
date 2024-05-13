@@ -37,6 +37,7 @@
   on:keydown={() => (showButtons = !showButtons)}
 >
   {#each categories as category, index}
+    <!-- svelte-ignore a11y-role-supports-aria-props -->
     <button
       class="option"
       class:active={activeCategory === category}

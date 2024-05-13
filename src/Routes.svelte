@@ -42,5 +42,3 @@
     <Route path={path} component={component} {...props} />
   {/each}
 </Router>
-
-
