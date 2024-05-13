@@ -134,50 +134,6 @@ export const websiteData = {
         code: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
       },
     ],
-    "Optimism-Contracts": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "Base-Contracts": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
     "prize-pools": [
       {
         name: "POOL Token Prize Pool",
@@ -192,7 +148,7 @@ export const websiteData = {
         code: "https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55#code",
       },
     ],
-    "prize-vaults": [
+    "yield-sources": [
       {
         name: "Soon",
         url: "https://redneck.media/",
@@ -214,27 +170,6 @@ export const websiteData = {
         image: "/images/comingsoon.png",
       },
     ],
-    "Bots": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "PT-Tools": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "Utilites": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
     "Games": [
       {
         name: "Soon",
@@ -242,7 +177,58 @@ export const websiteData = {
         image: "/images/comingsoon.png",
       },
     ],
-    "Integrations": [
+    "Opchain-Contracts": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "Basechain-Contracts": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "Bots": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "Utilites": [
       {
         name: "Soon",
         url: "https://ptbook.xyz/",
