@@ -197,52 +197,6 @@ export const websiteData = {
         code: "https://basescan.org/address/0x45b2010d8a4f08b53c9fa7544c51dfd9733732cb#code",
       },
     ],
-    "prize-hooks": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "prize-liquidators": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "prize-claimers": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "NFTs": [
-            {
-        name: "Pooly Defense",
-        url: "https://opensea.io/collection/pooly-pfers",
-        image: "/images/poolynft.png",
-      },
-      {
-        name: "Pool Domains",
-        url: "https://names.pooly.me/#/",
-        image: "/images/domains.png",
-      },
-      {
-        name: "Pfers",
-        url: "https://opensea.io/collection/pooly-pfers",
-        image: "/images/pfers.png",
-        code: "https://etherscan.io/address/0xbcc664b1e6848caba2eb2f3de6e21f81b9276dd8"
-      },
-    ],
-    "Games": [
-      {
-        name: "Soon",
-        url: "https://ptbook.xyz/",
-        image: "/images/comingsoon.png",
-      },
-    ],
     "Opchain-Contracts": [
       {
         name: "TWAB Controller",
@@ -288,11 +242,6 @@ export const websiteData = {
         name: "Claimer Example",
         url: "https://optimistic.etherscan.io/address/0x0b5a1dc536D5A67C66D00B337E6b189385BD8438",
         image: "/images/opclaimer.png",
-      },
-      {
-        name: "Draw Fund",
-        url: "https://ptbook.xyz",
-        image: "/images/opetherscan.png",
       },
       {
         name: "Weth Prize Pool",
@@ -385,6 +334,52 @@ export const websiteData = {
         name: "Protocol Overview",
         url: "https://ptbook.xyz/",
         image: "/images/baseoverview.png",
+      },
+    ],
+    "prize-hooks": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "prize-liquidators": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "prize-claimers": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz",
+        image: "/images/comingsoon.png",
+      },
+    ],
+    "NFTs": [
+            {
+        name: "Pooly Defense",
+        url: "https://opensea.io/collection/pooly-pfers",
+        image: "/images/poolynft.png",
+      },
+      {
+        name: "Pool Domains",
+        url: "https://names.pooly.me/#/",
+        image: "/images/domains.png",
+      },
+      {
+        name: "Pfers",
+        url: "https://opensea.io/collection/pooly-pfers",
+        image: "/images/pfers.png",
+        code: "https://etherscan.io/address/0xbcc664b1e6848caba2eb2f3de6e21f81b9276dd8"
+      },
+    ],
+    "Games": [
+      {
+        name: "Soon",
+        url: "https://ptbook.xyz/",
+        image: "/images/comingsoon.png",
       },
     ],
     "Bots": [
