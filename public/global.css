@@ -3,7 +3,7 @@
 :root {
 	--text: rgb(244, 244, 244);
 	--background: rgb(0, 0, 0);
-	--primary: #4D25A1;
+	--primary: #C23236;
 	--primary-a: rgba(218, 237, 110, 0.2);
 	--primary-a2: rgba(218, 237, 110, 0);
 	--secondary: rgb(13, 12, 12);
@@ -11,7 +11,7 @@
 	--accent: rgb(255, 255, 255);
 	--accent-a: rgba(42, 41, 41, 0.354);
 	--accent-a2: rgba(255, 255, 255, 0.3);
-	--primary-l: #21064E;
+	--primary-l: #C23236;
 
 	--s: 14px;
 	--p: 16px;
@@ -623,3 +623,11 @@ aside {
 	}
 
 }
+
+
+.sidebar-logo {
+	width: 205px; /* Adjust the size as needed */
+	margin-bottom: -10px; /* Space between the logo and the first category button */
+	display: block; /* Ensures the image is displayed as a block element */
+  }
+  

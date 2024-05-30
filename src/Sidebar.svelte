@@ -24,7 +24,7 @@
   function handlePopstate() {
     path = window.location.pathname.split("/")[1];
     activeCategory = categories.includes(path) ? path : categories[0];
-  };
+  }
 </script>
 
 <svelte:window
@@ -36,6 +36,7 @@
   on:click={() => (showButtons = !showButtons)}
   on:keydown={() => (showButtons = !showButtons)}
 >
+  <img src="/images/sidebarlogo.png" alt="Casa Logo" class="sidebar-logo" />
   {#each categories as category, index}
     <!-- svelte-ignore a11y-role-supports-aria-props -->
     <button
