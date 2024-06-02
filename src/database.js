@@ -8,9 +8,10 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Preview WIP at MyEVM.Vip",
+        name: "SNEAK PEAK at MyEVM Vip",
         url: "https://myevm.vip",
-        image: "/images/viplogo.png",
+        image: "/images/vipsoon.webp",
+        url: "https://vipwip.vercel.app/",
         code: "https://github.com/myevm-dev/",
       },
       {
@@ -27,21 +28,6 @@ export const websiteData = {
       },
     ],
     "Links": [
-      {        
-        name: "MyEVM Pro on X.com",
-        url: "https://myevm.pro",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Org on X.com",
-        url: "https://myevm.org",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Casa on X.com",
-        url: "https://myevm.org",
-        image: "/images/x.png",
-      },
       {
         name: "L7cubed on X.com",
         url: "https://x.com/l7cubed",
