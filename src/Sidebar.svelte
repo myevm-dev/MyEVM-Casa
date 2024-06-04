@@ -36,7 +36,6 @@
   on:click={() => (showButtons = !showButtons)}
   on:keydown={() => (showButtons = !showButtons)}
 >
-  <img src="/images/sidebarlogo.png" alt="Casa Logo" class="sidebar-logo" />
   {#each categories as category, index}
     <!-- svelte-ignore a11y-role-supports-aria-props -->
     <button

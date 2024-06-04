@@ -2,26 +2,26 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
-        name: "Dapps at MyEVM.Casa",
+        name: "Dapps MyEVM.Casa",
         url: "https://myevm.casa",
         image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "SNEAK PEAK at MyEVM Vip",
+        name: "PREVIEW MyEVM Vip",
         url: "https://myevm.vip",
         image: "/images/vipsoon.webp",
         url: "https://vipwip.vercel.app/",
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Stake to win at Splash.wtf",
-        url: "https://splash.wtf/",
-        image: "/images/splash.png",
+        name: "Stake to win MyEVM.Win",
+        url: "https://myevm.win/",
+        image: "/images/winlogo.png",
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Advanced LP at MyEVM.Pro",
+        name: "Lending/AdvLP MyEVM.Pro",
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
         code: "https://github.com/myevm-dev/",
