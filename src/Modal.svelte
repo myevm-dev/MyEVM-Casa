@@ -160,7 +160,7 @@
           </svg>                   
         </a>
       {:else if !codeLinkBoolean} 
-        <a href="https://ptbook.xyz" target="_blank" class="outbound code-link empty-code">
+        <a href="https://myevm.cas" target="_blank" class="outbound code-link empty-code">
           <svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect width="30" height="29" rx="3" fill="transparent"/>
             <path d="M19 7L26 14L19 21" stroke="white"/>
