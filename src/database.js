@@ -2,16 +2,16 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
-        name: "Dapps MyEVM.Casa",
-        url: "https://myevm.casa",
-        image: "/images/casalogo.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
         name: "PREVIEW MyEVM Vip",
         url: "https://myevm.vip",
         image: "/images/vipsoon.webp",
         url: "https://vipwip.vercel.app/",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Dapps MyEVM.Casa",
+        url: "https://myevm.casa",
+        image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
       {
