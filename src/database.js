@@ -2,6 +2,14 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
+        name: "Coming Soon MyEVM Art",
+        image: "/images/artsoon.webp",
+      },
+      {
+        name: "Coming Soon MyEVM Start",
+        image: "/images/startsoon.webp",
+      },
+      {
         name: "PREVIEW MyEVM Vip",
         url: "https://myevm.vip",
         image: "/images/vipsoon.webp",
@@ -31,7 +39,7 @@ export const websiteData = {
       {
         name: "L7cubed on X.com",
         url: "https://x.com/l7cubed",
-        image: "/images/l7xcom.png",
+        image: "/images/l7onx.png",
       },
       {
         name: "Genesis Team at MyEVM.Org",
