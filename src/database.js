@@ -69,6 +69,11 @@ export const websiteData = {
         image: "/images/ptstaking.png",
       },
       {
+        name: "Moonwell",
+        url: "https://moonwell.fi/",
+        image: "/images/moonwell.png",
+      },
+      {
         name: "Beefy Finance",
         url: "https://beefy.finance/",
         image: "/images/beefy.png",
