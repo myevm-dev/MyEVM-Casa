@@ -2,6 +2,11 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
+        name: "Rain Eth Initiative",
+        url: "https://www.myevm.xyz/raineth.html/",
+        image: "/images/raineth.png",
+      },
+      {
         name: "Win Rewards Creator",
         url: "https://rewardscreator.vercel.app/",
         image: "/images/rewardcreator.png",
@@ -87,6 +92,11 @@ export const websiteData = {
         name: "Aerodrome Finance",
         url: "https://aerodrome.finance/",
         image: "/images/aerodrome.png",
+      },
+      {
+        name: "Uniswap",
+        url: "https://uniswap.org/",
+        image: "/images/uniswap.png",
       },
       {
         name: "Aloe Capital",
