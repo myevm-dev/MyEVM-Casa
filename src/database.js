@@ -2,6 +2,12 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
+        name: "Win Rewards Creator",
+        url: "https://rewardscreator.vercel.app/",
+        image: "/images/rewardcreator.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
         name: "Coming Soon MyEVM Start",
         image: "/images/startsoon.webp",
       },
