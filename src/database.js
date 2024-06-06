@@ -8,6 +8,12 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
+        name: "Win Vault Creator",
+        url: "https://vaultcreator.vercel.app/",
+        image: "/images/vaultcreator.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
         name: "Coming Soon MyEVM Start",
         image: "/images/startsoon.webp",
       },
