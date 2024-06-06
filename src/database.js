@@ -2,10 +2,6 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
-        name: "Coming Soon MyEVM Art",
-        image: "/images/artsoon.webp",
-      },
-      {
         name: "Coming Soon MyEVM Start",
         image: "/images/startsoon.webp",
       },
