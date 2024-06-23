@@ -7,10 +7,8 @@ export const websiteData = {
         image: "/images/raineth.png",
       },
       {
-        name: "Win Rewards Creator",
-        url: "https://rewardscreator.vercel.app/",
-        image: "/images/rewardcreator.png",
-        code: "https://github.com/myevm-dev/",
+        name: "Soooooon Pro Market Creator",
+        image: "/images/marketcreator.png",
       },
       {
         name: "Win Vault Creator",
@@ -19,15 +17,24 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
+        name: "Win Rewards Creator",
+        url: "https://rewardscreator.vercel.app/",
+        image: "/images/rewardcreator.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
         name: "Coming Soon MyEVM Start",
         image: "/images/startsoon.webp",
       },
       {
-        name: "PREVIEW MyEVM Vip",
-        url: "https://myevm.vip",
+        name: "Coming Soon MyEVM Vip",
+        gif: "/images/vippreview.webp",
         image: "/images/vipsoon.webp",
-        url: "https://vipwip.vercel.app/",
-        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Coming Soon MyEVM Art",
+        image: "/images/artlogo.webp",
+
       },
       {
         name: "Dapps MyEVM.Casa",
@@ -50,9 +57,24 @@ export const websiteData = {
     ],
     "Links": [
       {
+        name: "L7cubed on Github",
+        url: "https://github.com/l7cubed",
+        image: "/images/github.png",
+      },
+      {
+        name: "MyEVM-dev on Github",
+        url: "https://github.com/myevm-dev",
+        image: "/images/github.png",
+      },
+      {
+        name: "MyEVM alternate on Github",
+        url: "https://github.com/myevm",
+        image: "/images/github.png",
+      },
+      {
         name: "L7cubed on X.com",
         url: "https://x.com/l7cubed",
-        image: "/images/l7onx.png",
+        image: "/images/x.png",
       },
       {
         name: "Genesis Team at MyEVM.Org",
