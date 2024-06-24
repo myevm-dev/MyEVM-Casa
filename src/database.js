@@ -72,6 +72,21 @@ export const websiteData = {
     ],
     "Links": [
       {
+        name: "MyEVM Casa on X.com",
+        url: "https://x.com/myevmcasa",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Ecosystem on X.com",
+        url: "https://x.com/myevmeco",
+        image: "/images/x.png",
+      },
+      {
+        name: "L7cubed on X.com",
+        url: "https://x.com/l7cubed",
+        image: "/images/x.png",
+      },
+      {
         name: "L7cubed on Github",
         url: "https://github.com/l7cubed",
         image: "/images/github.png",
@@ -87,11 +102,6 @@ export const websiteData = {
         image: "/images/github.png",
       },
       {
-        name: "L7cubed on X.com",
-        url: "https://x.com/l7cubed",
-        image: "/images/x.png",
-      },
-      {
         name: "Genesis Team at MyEVM.Org",
         url: "https://myevm.org",
         image: "/images/myevm.png",
@@ -101,6 +111,11 @@ export const websiteData = {
         name: "Docs at MyEVM.Xyz",
         url: "https://myevm.xyz/",
         image: "/images/myevm.png",
+        code: "https://github.com/myevm-dev",
+      },
+      {
+        name: "MyEVM Ecosystem",
+        image: "/images/ecosystem.png",
         code: "https://github.com/myevm-dev",
       },
     ],
