@@ -2,9 +2,19 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
-        name: "Rain Eth Initiative",
-        url: "https://www.myevm.xyz/raineth.html/",
-        image: "/images/raineth.png",
+        name: "RainEth Vip DAO",
+        url: "https://rooms.party.app/party/0xc3f11080ce2a5a37801c2fa39eda00478fcdd568",
+        image: "/images/roomsvip.webp",
+      },
+      {
+        name: "RainEth Prime DAO",
+        url: "https://rooms.party.app/party/0x58129a95d14a484322745a9419edaa4a7cc4e08f",
+        image: "/images/roomsprime.webp",
+      },
+      {
+        name: "RainEth Collective DAO",
+        url: "https://rooms.party.app/party/0x0f9f35a8203b0d3c643d0ee76159557b849d9ff8",
+        image: "/images/roomscollect.webp",
       },
       {
         name: "Soooooon Pro Market Creator",
@@ -161,9 +171,20 @@ export const websiteData = {
       },
     ],
     "NFTs": [
-            {
-              name: "Soon",
-              image: "/images/comingsoon.webp",
+      {
+        name: "RainETH VIP",
+        image: "/images/rainvip.webp",
+        url: "https://opensea.io/collection/raineth-initiative-vip"
+      },
+      {
+        name: "RainETH Prime",
+        image: "/images/rainprime.webp",
+        url: "https://opensea.io/collection/raineth-initiative-prime"
+      },
+      {
+        name: "RainETH Collective",
+        image: "/images/raincollect.webp",
+        url: "https://opensea.io/collection/raineth-initiative-collective"
       },
     ],
     "Games": [
