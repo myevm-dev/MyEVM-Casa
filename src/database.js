@@ -23,6 +23,12 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
+        name: "Casa ABI Wizard",
+        url: "https://rewardscreator.vercel.app/",
+        image: "/images/abiwizard.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
         name: "Coming Soon MyEVM Start",
         image: "/images/startsoon.webp",
       },
@@ -151,25 +157,7 @@ export const websiteData = {
         image: "/images/panoptic.png",
       },
     ],
-    "Ethereum-Contracts": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "Arbitrum-Contracts": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-       },
-    ],
-    "Opchain-Contracts": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "Basechain-Contracts": [
+    "Contracts": [
       {
         name: "Soon",
         image: "/images/comingsoon.webp",
