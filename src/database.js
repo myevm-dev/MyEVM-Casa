@@ -2,11 +2,11 @@ export const websiteData = {
   categories: {
     "Dapps": [
       {
-        name: "Soooooon Pro Market Creator",
+        name: "Soon Pro Market Creator",
         image: "/images/marketcreator.webp",
       },
       {
-        name: " Soooon Win Flash Liquidator",
+        name: " Soon Win Flash Liquidator",
         image: "/images/flashliq.webp",
         code: "https://github.com/myevm-dev/",
       },
@@ -24,7 +24,6 @@ export const websiteData = {
       },
       {
         name: "Casa ABI Wizard",
-        url: "https://rewardscreator.vercel.app/",
         image: "/images/abiwizard.png",
         code: "https://github.com/myevm-dev/",
       },
@@ -63,19 +62,9 @@ export const websiteData = {
     ],
     "Links": [
       {
-        name: "MyEVM Casa on X.com",
-        url: "https://x.com/myevmcasa",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Ecosystem on X.com",
-        url: "https://x.com/myevmeco",
-        image: "/images/x.png",
-      },
-      {
-        name: "L7cubed on X.com",
-        url: "https://x.com/l7cubed",
-        image: "/images/x.png",
+        name: "MyEVM-dev on Github",
+        url: "https://github.com/myevm-dev",
+        image: "/images/github.png",
       },
       {
         name: "L7cubed on Github",
@@ -88,12 +77,12 @@ export const websiteData = {
         image: "/images/github.png",
       },
       {
-        name: "MyEVM alternate on Github",
-        url: "https://github.com/myevm",
-        image: "/images/github.png",
+        name: "MyEVM Casa on X.com",
+        url: "https://x.com/myevmcasa",
+        image: "/images/x.png",
       },
       {
-        name: "Genesis Team at MyEVM.Org",
+        name: "MyEVM.Org",
         url: "https://myevm.org",
         image: "/images/myevm.png",
         code: "https://github.com/myevm-dev",
@@ -102,11 +91,6 @@ export const websiteData = {
         name: "Docs at MyEVM.Xyz",
         url: "https://myevm.xyz/",
         image: "/images/myevm.png",
-        code: "https://github.com/myevm-dev",
-      },
-      {
-        name: "MyEVM Ecosystem",
-        image: "/images/ecosystem.png",
         code: "https://github.com/myevm-dev",
       },
     ],
@@ -158,48 +142,6 @@ export const websiteData = {
       },
     ],
     "Contracts": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "NFTs": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "Games": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "Bots": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.png",
-      },
-    ],
-    "Utilites": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "In-The-News": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "Branding": [
-      {
-        name: "Soon",
-        image: "/images/comingsoon.webp",
-      },
-    ],
-    "More": [
       {
         name: "Soon",
         image: "/images/comingsoon.webp",
