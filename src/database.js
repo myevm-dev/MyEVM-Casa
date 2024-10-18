@@ -34,7 +34,6 @@ export const websiteData = {
       {
         name: "Analytics",
         image: "/images/winanalytics.png",
-        code: "https://github.com/myevm-dev/",
       },
       {
         name: "Vault Creator",
@@ -102,12 +101,6 @@ export const websiteData = {
         image: "/images/panoptic.png",
       },
     ],
-    "Contracts": [
-      {
-        name: "SOOOON",
-        image: "/images/comingsoon.webp",
-      },
-    ],
     "About": [
       {
         name: "MyEVM-dev on Github",
@@ -140,6 +133,40 @@ export const websiteData = {
         url: "https://myevm.xyz/",
         image: "/images/myevm.png",
         code: "https://github.com/myevm-dev",
+      },
+    ],
+    "Sneak-Peak": [
+      {
+        name: "VIP",
+        image: "/images/viplogo.png",
+        url: "https://vipwip.vercel.app/",
+        code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Roadmap": [
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Itemone",
+        image: "/images/myevm.png",
       },
     ],
   },
