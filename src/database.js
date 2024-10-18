@@ -1,97 +1,58 @@
 export const websiteData = {
   categories: {
-    "Dapps": [
+    "Casa": [
       {
-        name: "Soon Pro Market Creator",
-        image: "/images/marketcreator.webp",
-      },
-      {
-        name: " Soon Win Flash Liquidator",
-        image: "/images/flashliq.webp",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "Win Vault Creator",
-        url: "https://vaultcreator.vercel.app/",
-        image: "/images/vaultcreator.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "Win Rewards Creator",
-        url: "https://rewardscreator.vercel.app/",
-        image: "/images/rewardcreator.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "Casa ABI Wizard",
+        name: "ABI Wizard",
         image: "/images/abiwizard.png",
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Coming Soon MyEVM Start",
-        image: "/images/startsoon.webp",
-      },
-      {
-        name: "Coming Soon MyEVM Vip",
-        gif: "/images/vippreview.webp",
-        image: "/images/vipsoon.webp",
-      },
-      {
-        name: "Coming Soon MyEVM Art",
-        image: "/images/artlogo.webp",
-
-      },
-      {
-        name: "Dapps MyEVM.Casa",
+        name: "Dapps (This Site)",
         url: "https://myevm.casa",
         image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
+    ],
+    "Pro": [
       {
-        name: "Stake to win MyEVM.Win",
-        url: "https://myevm.win/",
-        image: "/images/winlogo.png",
-        code: "https://github.com/myevm-dev/",
+        name: "SOOOON Market Creator",
+        image: "/images/marketcreator.png",
       },
       {
-        name: "Lending/AdvLP MyEVM.Pro",
+        name: "Lending and Advanced LP ",
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
         code: "https://github.com/myevm-dev/",
       },
     ],
-    "Links": [
+    "Win": [
       {
-        name: "MyEVM-dev on Github",
-        url: "https://github.com/myevm-dev",
-        image: "/images/github.png",
+        name: " SOOOON Flash Liquidator",
+        image: "/images/flashliq.png",
+        code: "https://github.com/myevm-dev/",
       },
       {
-        name: "L7cubed on Github",
-        url: "https://github.com/l7cubed",
-        image: "/images/github.png",
+        name: "Analytics",
+        image: "/images/winanalytics.png",
+        code: "https://github.com/myevm-dev/",
       },
       {
-        name: "MyEVM-dev on Github",
-        url: "https://github.com/myevm-dev",
-        image: "/images/github.png",
+        name: "Vault Creator",
+        url: "https://vaultcreator.vercel.app/",
+        image: "/images/vaultcreator.png",
+        code: "https://github.com/myevm-dev/",
       },
       {
-        name: "MyEVM Casa on X.com",
-        url: "https://x.com/myevmcasa",
-        image: "/images/x.png",
+        name: "Rewards Creator",
+        url: "https://rewardscreator.vercel.app/",
+        image: "/images/rewardcreator.png",
+        code: "https://github.com/myevm-dev/",
       },
       {
-        name: "MyEVM.Org",
-        url: "https://myevm.org",
-        image: "/images/myevm.png",
-        code: "https://github.com/myevm-dev",
-      },
-      {
-        name: "Docs at MyEVM.Xyz",
-        url: "https://myevm.xyz/",
-        image: "/images/myevm.png",
-        code: "https://github.com/myevm-dev",
+        name: "Stake to win",
+        url: "https://myevm.win/",
+        image: "/images/winlogo.png",
+        code: "https://github.com/myevm-dev/",
       },
     ],
     "Yield-Sources": [
@@ -143,8 +104,42 @@ export const websiteData = {
     ],
     "Contracts": [
       {
-        name: "Soon",
+        name: "SOOOON",
         image: "/images/comingsoon.webp",
+      },
+    ],
+    "About": [
+      {
+        name: "MyEVM-dev on Github",
+        url: "https://github.com/myevm-dev",
+        image: "/images/github.png",
+      },
+      {
+        name: "L7cubed on Github",
+        url: "https://github.com/l7cubed",
+        image: "/images/github.png",
+      },
+      {
+        name: "MyEVM-dev on Github",
+        url: "https://github.com/myevm-dev",
+        image: "/images/github.png",
+      },
+      {
+        name: "MyEVM Casa on X.com",
+        url: "https://x.com/myevmcasa",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM.Org",
+        url: "https://myevm.org",
+        image: "/images/myevm.png",
+        code: "https://github.com/myevm-dev",
+      },
+      {
+        name: "Docs at MyEVM.Xyz",
+        url: "https://myevm.xyz/",
+        image: "/images/myevm.png",
+        code: "https://github.com/myevm-dev",
       },
     ],
   },
