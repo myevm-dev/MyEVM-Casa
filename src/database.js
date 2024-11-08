@@ -109,6 +109,16 @@ export const websiteData = {
     ],
     "About": [
       {
+        name: "Email",
+        url: "mailto:yo@myevm.org",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Backup Email",
+        url: "mailto:yo.myevm@gmail.com",
+        image: "/images/myevm.png",
+      },
+      {
         name: "MyEVM-dev on Github",
         url: "https://github.com/myevm-dev",
         image: "/images/github.png",
