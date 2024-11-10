@@ -164,30 +164,12 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ],
-    "Roadmap": [
+    "Audits": [
       {
-        name: "Itemone",
-        image: "/images/myevm.png",
-      },
-      {
-        name: "Itemone",
-        image: "/images/myevm.png",
-      },
-      {
-        name: "Itemone",
-        image: "/images/myevm.png",
-      },
-      {
-        name: "Itemone",
-        image: "/images/myevm.png",
-      },
-      {
-        name: "Itemone",
-        image: "/images/myevm.png",
-      },
-      {
-        name: "Itemone",
-        image: "/images/myevm.png",
+        name: "Pool Together",
+        url: "https://docs.pooltogether.com/security/audits",
+        image: "/images/ptstaking.png",
+        code: "https://github.com/GenerationSoftware",
       },
     ],
   },
