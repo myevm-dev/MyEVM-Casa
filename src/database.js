@@ -168,7 +168,7 @@ export const websiteData = {
       {
         name: "Pool Together",
         url: "https://docs.pooltogether.com/security/audits",
-        image: "/images/ptstaking.png",
+        image: "/images/v5.png",
         code: "https://github.com/GenerationSoftware",
       },
     ],
