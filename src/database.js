@@ -12,6 +12,11 @@ export const websiteData = {
         image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
+      {
+        name: "The Stack",
+        image: "/images/thestack.png",
+        code: "https://github.com/myevm-dev/",
+      },
     ],
     "Pro": [
       {
