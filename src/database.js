@@ -13,9 +13,10 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "The Stack",
-        image: "/images/thestack.png",
+        name: "EVM List",
+        image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
+        url: "https://chainlist-puce-one.vercel.app/",
       },
     ],
     "Pro": [
@@ -28,6 +29,14 @@ export const websiteData = {
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
         code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Robo": [
+      {
+        name: "RoboAssets",
+        url: "https://robo-usd.vercel.app/",
+        image: "/images/robo.png",
+        code: "https://github.com/yomyevm/",
       },
     ],
     "Win": [
@@ -57,12 +66,6 @@ export const websiteData = {
         url: "https://myevm.win/",
         image: "/images/winlogo.png",
         code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "RoboUSD",
-        url: "https://robo-usd.vercel.app/",
-        image: "/images/robousd.png",
-        code: "https://github.com/yomyevm/",
       },
     ],
     "Yield-Sources": [
