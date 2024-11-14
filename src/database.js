@@ -22,7 +22,7 @@ export const websiteData = {
     ],
     "Win": [
       {
-        name: " SOOOON Flash Liquidator",
+        name: "Flash Liquidator",
         image: "/images/flashliq.png",
         code: "https://github.com/myevm-dev/",
       },
@@ -51,7 +51,7 @@ export const websiteData = {
     ], 
     "Pro": [
       {
-        name: "SOOOON Market Creator",
+        name: "Market Creator",
         image: "/images/soon.png",
       },
       {
