@@ -60,6 +60,13 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ],
+    "Media": [
+      {
+        name: "Movie Clubs",
+        image: "/images/movieclubs.png",
+        url: "https://movies-weld-beta.vercel.app/",
+      },
+    ],
     "Robo": [
       {
         name: "RoboUSD ",
@@ -102,12 +109,6 @@ export const websiteData = {
     "Soon-Data": [
       {
         name: "Data Markets",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Media": [
-      {
-        name: "Media",
         image: "/images/soon.png",
       },
     ],
