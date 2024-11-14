@@ -3,6 +3,7 @@ export const websiteData = {
     "Casa": [
       {
         name: "ABI Wizard",
+        url: "https://myevm.casa",
         image: "/images/abiwizard.png",
         code: "https://github.com/myevm-dev/",
       },
@@ -14,7 +15,7 @@ export const websiteData = {
       },
       {
         name: "EVM List",
-        image: "/images/casalogo.png",
+        image: "/images/evmlist.png",
         code: "https://github.com/myevm-dev/",
         url: "https://chainlist-puce-one.vercel.app/",
       },
