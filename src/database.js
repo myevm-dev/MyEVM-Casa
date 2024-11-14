@@ -19,26 +19,6 @@ export const websiteData = {
         url: "https://chainlist-puce-one.vercel.app/",
       },
     ],
-    "Pro": [
-      {
-        name: "SOOOON Market Creator",
-        image: "/images/marketcreator.png",
-      },
-      {
-        name: "Lending and Advanced LP ",
-        url: "https://myevm.pro/",
-        image: "/images/prologo.png",
-        code: "https://github.com/myevm-dev/",
-      },
-    ],
-    "Robo": [
-      {
-        name: "RoboAssets",
-        url: "https://robo-usd.vercel.app/",
-        image: "/images/robo.png",
-        code: "https://github.com/yomyevm/",
-      },
-    ],
     "Win": [
       {
         name: " SOOOON Flash Liquidator",
@@ -66,6 +46,81 @@ export const websiteData = {
         url: "https://myevm.win/",
         image: "/images/winlogo.png",
         code: "https://github.com/myevm-dev/",
+      },
+    ], 
+    "Pro": [
+      {
+        name: "SOOOON Market Creator",
+        image: "/images/soon.png",
+      },
+      {
+        name: "Lending and Advanced LP ",
+        url: "https://myevm.pro/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Robo": [
+      {
+        name: "RoboUSD ",
+        image: "/images/robo.png",
+        url: "https://robo-usd.vercel.app/",
+        code: "https://github.com/yomyevm/",
+      },
+    ],
+    "Soon-Frens": [
+      {
+        name: "Frens Funding ",
+        image: "/images/soon.png",
+        code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Soon-Art": [
+      {
+        name: "Art",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Start": [
+      {
+        name: "Start",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Games": [
+      {
+        name: "Games",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Life": [
+      {
+        name: "Life",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Data": [
+      {
+        name: "Data Markets",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Media": [
+      {
+        name: "Media",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Shop": [
+      {
+        name: "Shop",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Biz": [
+      {
+        name: "Biz",
+        image: "/images/soon.png",
       },
     ],
     "Yield-Sources": [
@@ -164,20 +219,18 @@ export const websiteData = {
         code: "https://github.com/myevm-dev",
       },
     ],
-    "Sneak-Peak": [
-      {
-        name: "VIP",
-        image: "/images/viplogo.png",
-        url: "https://vipwip.vercel.app/",
-        code: "https://github.com/myevm-dev/",
-      },
-    ],
     "Audits": [
       {
         name: "Pool Together",
         url: "https://docs.pooltogether.com/security/audits",
         image: "/images/v5.png",
         code: "https://github.com/GenerationSoftware",
+      },
+    ],
+    "TheToken": [
+      {
+        name: "TheToken",
+        image: "/images/soon.png",
       },
     ],
   },
