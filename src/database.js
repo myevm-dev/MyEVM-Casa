@@ -3,7 +3,7 @@ export const websiteData = {
     "Casa": [
       {
         name: "ABI Wizard",
-        url: "https://myevm.casa",
+        url: "https://abi-ninja-nextjs.vercel.app/",
         image: "/images/abiwizard.png",
         code: "https://github.com/myevm-dev/",
       },
