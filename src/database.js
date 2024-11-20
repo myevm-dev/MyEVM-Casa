@@ -228,6 +228,12 @@ export const websiteData = {
         image: "/images/v5.png",
         code: "https://github.com/GenerationSoftware",
       },
+      {
+        name: "Aloe Capital",
+        url: "https://github.com/aloelabs/aloe-ii/tree/master/audits",
+        image: "/images/aloeii.png",
+        code: "https://github.com/aloelabs",
+      },
     ],
     "TheToken": [
       {
