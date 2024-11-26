@@ -55,6 +55,12 @@ export const websiteData = {
         image: "/images/soon.png",
       },
       {
+        name: "Swap Pro ",
+        url: "https://swappro-brown.vercel.app/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
         name: "Lending and Advanced LP ",
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
