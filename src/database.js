@@ -20,6 +20,20 @@ export const websiteData = {
         url: "https://chainlist-puce-one.vercel.app/",
       },
     ],
+    "Fun": [
+      {
+        name: "BroomDao ",
+        image: "/images/soon.png",
+        code: "https://github.com/YoMyEVM/",
+        url: "https://broomdao.vercel.app/"
+      },
+      {
+        name: "FrensFunder ",
+        image: "/images/soon.png",
+        code: "https://github.com/YoMyEVM/",
+        url: "https://myevm.fun",
+      },
+    ],
     "Win": [
       {
         name: "Flash Liquidator",
@@ -81,13 +95,7 @@ export const websiteData = {
         url: "https://robo-usd.vercel.app/",
         code: "https://github.com/yomyevm/",
       },
-    ],
-    "Soon-Frens": [
-      {
-        name: "Frens Funding ",
-        image: "/images/soon.png",
-        code: "https://github.com/myevm-dev/",
-      },
+
     ],
     "Soon-Art": [
       {
@@ -180,13 +188,68 @@ export const websiteData = {
     ],
     "About": [
       {
-        name: "Email",
-        url: "mailto:yo@myevm.org",
-        image: "/images/myevm.png",
+        name: "MyEVM Biz on X.com",
+        url: "https://x.com/myevmbiz",
+        image: "/images/x.png",
+      },
+      {
+        name: "TheToken on X.com",
+        url: "https://x.com/thetokenevm",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Pro on X.com",
+        url: "https://x.com/myevmpro",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Vip on X.com",
+        url: "https://x.com/myevmvip",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Start on X.com",
+        url: "https://x.com/myevmstart",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Win on X.com",
+        url: "https://x.com/myevmwin",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Data on X.com",
+        url: "https://x.com/myevmdata",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Games on X.com",
+        url: "https://x.com/myevmgames",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Media on X.com",
+        url: "https://x.com/myevmmedia",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Fun on X.com",
+        url: "https://x.com/myevmfun",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM Casa on X.com",
+        url: "https://x.com/myevmcasa",
+        image: "/images/x.png",
       },
       {
         name: "Backup Email",
         url: "mailto:yo.myevm@gmail.com",
+        image: "/images/myevm.png",
+      },
+      {
+        name: "Email",
+        url: "mailto:yo@myevm.org",
         image: "/images/myevm.png",
       },
       {
@@ -195,7 +258,7 @@ export const websiteData = {
         image: "/images/github.png",
       },
       {
-        name: "yomyevm temp on Github",
+        name: "YoMyEVM on Github",
         url: "https://github.com/yomyevm",
         image: "/images/github.png",
       },
@@ -205,14 +268,14 @@ export const websiteData = {
         image: "/images/github.png",
       },
       {
-        name: "MyEVM-dev on Github",
-        url: "https://github.com/myevm-dev",
-        image: "/images/github.png",
+      name: "TheToken on Github",
+      url: "https://github.com/TheTOKEN-sol",
+      image: "/images/github.png",
       },
       {
-        name: "MyEVM Casa on X.com",
-        url: "https://x.com/myevmcasa",
-        image: "/images/x.png",
+        name: "MyEVM on Github",
+        url: "https://github.com/myevm",
+        image: "/images/github.png",
       },
       {
         name: "MyEVM.Org",
