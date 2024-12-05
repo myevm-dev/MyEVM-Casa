@@ -1,5 +1,56 @@
 #MyEVM CASA
 
+to be added
+
+   "Soon-Art": [
+      {
+        name: "Art",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Start": [
+      {
+        name: "Start",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Games": [
+      {
+        name: "Games",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Life": [
+      {
+        name: "Life",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Data": [
+      {
+        name: "Data Markets",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Shop": [
+      {
+        name: "Shop",
+        image: "/images/soon.png",
+      },
+    ],
+    "Soon-Biz": [
+      {
+        name: "Biz",
+        image: "/images/soon.png",
+      },
+    ],
+        "TheToken": [
+      {
+        name: "TheToken",
+        image: "/images/soon.png",
+      },
+    ],
+
 We add sites and categories mainly to [database.js](src/database.js). 
 
 There are up to 5 properties you can specify for each site: 

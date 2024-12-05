@@ -22,16 +22,36 @@ export const websiteData = {
     ],
     "Fun": [
       {
-        name: "BroomDao ",
-        image: "/images/soon.png",
-        code: "https://github.com/YoMyEVM/",
-        url: "https://broomdao.vercel.app/"
-      },
-      {
         name: "FrensFunder ",
         image: "/images/soon.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.fun",
+      },
+    ],
+    "Vip": [
+      {
+        name: "Vip",
+        image: "/images/soon.png",
+        code: "https://github.com/YoMyEVM/",
+        url: "https://myevm.vip",
+      },
+    ],
+    "Pro": [
+      {
+        name: "Market Creator",
+        image: "/images/soon.png",
+      },
+      {
+        name: "Swap Pro ",
+        url: "https://swappro-brown.vercel.app/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Lending and Advanced LP ",
+        url: "https://myevm.pro/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
       },
     ],
     "Win": [
@@ -63,24 +83,6 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ], 
-    "Pro": [
-      {
-        name: "Market Creator",
-        image: "/images/soon.png",
-      },
-      {
-        name: "Swap Pro ",
-        url: "https://swappro-brown.vercel.app/",
-        image: "/images/prologo.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "Lending and Advanced LP ",
-        url: "https://myevm.pro/",
-        image: "/images/prologo.png",
-        code: "https://github.com/myevm-dev/",
-      },
-    ],
     "Media": [
       {
         name: "Movie Clubs",
@@ -97,48 +99,7 @@ export const websiteData = {
       },
 
     ],
-    "Soon-Art": [
-      {
-        name: "Art",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Start": [
-      {
-        name: "Start",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Games": [
-      {
-        name: "Games",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Life": [
-      {
-        name: "Life",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Data": [
-      {
-        name: "Data Markets",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Shop": [
-      {
-        name: "Shop",
-        image: "/images/soon.png",
-      },
-    ],
-    "Soon-Biz": [
-      {
-        name: "Biz",
-        image: "/images/soon.png",
-      },
-    ],
+ 
     "Yield-Sources": [
       {
         name: "Pool Together V5 Staking",
@@ -302,12 +263,6 @@ export const websiteData = {
         url: "https://github.com/aloelabs/aloe-ii/tree/master/audits",
         image: "/images/aloeii.png",
         code: "https://github.com/aloelabs",
-      },
-    ],
-    "TheToken": [
-      {
-        name: "TheToken",
-        image: "/images/soon.png",
       },
     ],
   },
