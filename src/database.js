@@ -1,5 +1,17 @@
 export const websiteData = {
   categories: {
+    "Deployed-Contracts": [
+      {
+        name: "Delegated WAPE",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/token/0x82d22b3affdc6b743916a10de096bf6e985fd6c7?a",
+      },
+      {
+        name: "VIP Token Deployer",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/address/0x1cdf7976af8e8849df86c9456f8551181a57d2bf",
+      },
+    ],
     "Casa": [
       {
         name: "ABI Wizard",
