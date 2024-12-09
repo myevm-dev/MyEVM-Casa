@@ -2,9 +2,19 @@ export const websiteData = {
   categories: {
     "Deployed-Contracts": [
       {
-        name: "Delegated WAPE",
+        name: "Wrapped Ape (Delegated Native Yield)",
         image: "/images/apescan.png",
         url: "https://apescan.io/token/0x82d22b3affdc6b743916a10de096bf6e985fd6c7?a",
+      },
+      {
+        name: "FunApeUSD (Delegated Native Yield)",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/address/0x2c383342898382022d0d8fff0ac5f1d21a35f8dc",
+      },
+      {
+        name: "FunApeETH (Delegated Native Yield",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/address/0xc6f696908dfc21f175883c6bd300bb84cba88dcd",
       },
       {
         name: "VIP Token Deployer",
