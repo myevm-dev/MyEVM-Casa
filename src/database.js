@@ -1,6 +1,6 @@
 export const websiteData = {
   categories: {
-    "Deployed-Contracts": [
+    "ApeChain-Contracts": [
       {
         name: "Wrapped Ape (Delegated Native Yield)",
         image: "/images/apescan.png",
