@@ -108,8 +108,13 @@ export const websiteData = {
     "Media": [
       {
         name: "Movie Clubs",
-        image: "/images/movieclubs.png",
+        image: "/images/soon.png",
         url: "https://movies-weld-beta.vercel.app/",
+      },
+      {
+        name: "Billionaires",
+        image: "/images/soon.png",
+        url: "https://real-time-billionaires-five.vercel.app/",
       },
     ],
     "Robo": [
