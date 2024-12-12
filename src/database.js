@@ -22,7 +22,7 @@ export const websiteData = {
         url: "https://apescan.io/address/0x1cdf7976af8e8849df86c9456f8551181a57d2bf",
       },
     ],
-    "Casa": [
+    "Casa-Demo": [
       {
         name: "ABI Wizard",
         url: "https://abi-ninja-nextjs.vercel.app/",
@@ -42,7 +42,7 @@ export const websiteData = {
         url: "https://chainlist-puce-one.vercel.app/",
       },
     ],
-    "Fun": [
+    "Fun-Demo": [
       {
         name: "FrensFunder ",
         image: "/images/soon.png",
@@ -50,7 +50,7 @@ export const websiteData = {
         url: "https://myevm.fun",
       },
     ],
-    "Vip": [
+    "Vip-Demo": [
       {
         name: "Vip",
         image: "/images/soon.png",
@@ -58,7 +58,15 @@ export const websiteData = {
         url: "https://myevm.vip",
       },
     ],
-    "Pro": [
+    "Art-Demo": [
+      {
+        name: "NFT Marketplace ",
+        image: "/images/artsoon.webp",
+        code: "https://github.com/myevm-dev/",
+        url: "https://myevm.art",
+      },
+    ],
+    "Pro-Demo": [
       {
         name: "Market Creator",
         image: "/images/soon.png",
@@ -76,7 +84,7 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ],
-    "Win": [
+    "Win-Demo": [
       {
         name: "Flash Liquidator",
         image: "/images/flashliq.png",
@@ -105,7 +113,7 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ], 
-    "Media": [
+    "Media-Demo": [
       {
         name: "Movie Clubs",
         image: "/images/soon.png",
@@ -117,7 +125,7 @@ export const websiteData = {
         url: "https://real-time-billionaires-five.vercel.app/",
       },
     ],
-    "Robo": [
+    "Robo-Demo": [
       {
         name: "RoboUSD ",
         image: "/images/robo.png",
