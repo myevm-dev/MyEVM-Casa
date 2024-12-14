@@ -1,28 +1,7 @@
 export const websiteData = {
   categories: {
-    "ApeChain-Contracts": [
-      {
-        name: "Wrapped Ape (Delegated Native Yield)",
-        image: "/images/apescan.png",
-        url: "https://apescan.io/token/0x82d22b3affdc6b743916a10de096bf6e985fd6c7?a",
-      },
-      {
-        name: "FunApeUSD (Delegated Native Yield)",
-        image: "/images/apescan.png",
-        url: "https://apescan.io/address/0x2c383342898382022d0d8fff0ac5f1d21a35f8dc",
-      },
-      {
-        name: "FunApeETH (Delegated Native Yield",
-        image: "/images/apescan.png",
-        url: "https://apescan.io/address/0xc6f696908dfc21f175883c6bd300bb84cba88dcd",
-      },
-      {
-        name: "VIP Token Deployer",
-        image: "/images/apescan.png",
-        url: "https://apescan.io/address/0x1cdf7976af8e8849df86c9456f8551181a57d2bf",
-      },
-    ],
-    "Casa-Demo": [
+    
+    "Casa": [
       {
         name: "ABI Wizard",
         url: "https://abi-ninja-nextjs.vercel.app/",
@@ -134,7 +113,18 @@ export const websiteData = {
       },
 
     ],
- 
+    "ApeChain-Contracts": [
+      {
+        name: "Wrapped Ape (Delegated Native Yield)",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/token/0x82d22b3affdc6b743916a10de096bf6e985fd6c7?a",
+      },
+      {
+        name: "VIP Token Deployer",
+        image: "/images/apescan.png",
+        url: "https://apescan.io/address/0x1cdf7976af8e8849df86c9456f8551181a57d2bf",
+      },
+    ],
     "Yield-Sources": [
       {
         name: "Pool Together V5 Staking",
@@ -189,11 +179,6 @@ export const websiteData = {
         image: "/images/x.png",
       },
       {
-        name: "TheToken on X.com",
-        url: "https://x.com/thetokenevm",
-        image: "/images/x.png",
-      },
-      {
         name: "MyEVM Pro on X.com",
         url: "https://x.com/myevmpro",
         image: "/images/x.png",
@@ -236,6 +221,11 @@ export const websiteData = {
       {
         name: "MyEVM Casa on X.com",
         url: "https://x.com/myevmcasa",
+        image: "/images/x.png",
+      },
+      {
+        name: "MyEVM on X.com",
+        url: "https://x.com/myevm_",
         image: "/images/x.png",
       },
       {
