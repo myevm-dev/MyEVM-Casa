@@ -3,15 +3,15 @@ export const websiteData = {
     
     "Casa": [
       {
-        name: "ABI Wizard",
-        url: "https://abi-ninja-nextjs.vercel.app/",
-        image: "/images/abiwizard.png",
+        name: "Dapps/Tools (This Site)",
+        url: "https://myevm.casa",
+        image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Dapps (This Site)",
-        url: "https://myevm.casa",
-        image: "/images/casalogo.png",
+        name: "ABI Wizard",
+        url: "https://abi-ninja-nextjs.vercel.app/",
+        image: "/images/abiwizard.png",
         code: "https://github.com/myevm-dev/",
       },
       {
@@ -31,18 +31,10 @@ export const websiteData = {
     ],
     "Vip-Demo": [
       {
-        name: "Vip",
+        name: "Swap Floor NFTs",
         image: "/images/soon.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.vip",
-      },
-    ],
-    "Art-Demo": [
-      {
-        name: "NFT Marketplace ",
-        image: "/images/artsoon.webp",
-        code: "https://github.com/myevm-dev/",
-        url: "https://myevm.art",
       },
     ],
     "Pro-Demo": [
@@ -61,6 +53,14 @@ export const websiteData = {
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
         code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Art-Demo": [
+      {
+        name: "NFT Marketplace ",
+        image: "/images/artsoon.webp",
+        code: "https://github.com/myevm-dev/",
+        url: "https://myevm.art",
       },
     ],
     "Win-Demo": [
