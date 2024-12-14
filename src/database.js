@@ -234,11 +234,6 @@ export const websiteData = {
         image: "/images/myevm.png",
       },
       {
-        name: "Email",
-        url: "mailto:yo@myevm.org",
-        image: "/images/myevm.png",
-      },
-      {
         name: "MyEVM-dev on Github",
         url: "https://github.com/myevm-dev",
         image: "/images/github.png",
@@ -249,19 +244,14 @@ export const websiteData = {
         image: "/images/github.png",
       },
       {
-        name: "L7cubed on Github",
-        url: "https://github.com/l7cubed",
-        image: "/images/github.png",
-      },
-      {
-      name: "TheToken on Github",
-      url: "https://github.com/TheTOKEN-sol",
-      image: "/images/github.png",
-      },
-      {
         name: "MyEVM on Github",
         url: "https://github.com/myevm",
         image: "/images/github.png",
+      },
+      {
+        name: "Email",
+        url: "mailto:yo@myevm.org",
+        image: "/images/myevm.png",
       },
       {
         name: "MyEVM.Org",
