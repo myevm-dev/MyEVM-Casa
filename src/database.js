@@ -24,7 +24,7 @@ export const websiteData = {
     "Fun-Demo": [
       {
         name: "FrensFunder ",
-        image: "/images/soon.png",
+        image: "/images/funlogo.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.fun",
       },
@@ -32,7 +32,7 @@ export const websiteData = {
     "Vip-Demo": [
       {
         name: "Swap Floor NFTs",
-        image: "/images/soon.png",
+        image: "/images/viplogo.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.vip",
       },
@@ -58,7 +58,7 @@ export const websiteData = {
     "Art-Demo": [
       {
         name: "NFT Marketplace ",
-        image: "/images/artsoon.webp",
+        image: "/images/artlogo.png",
         code: "https://github.com/myevm-dev/",
         url: "https://myevm.art",
       },
