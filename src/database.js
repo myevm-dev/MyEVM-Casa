@@ -157,53 +157,8 @@ export const websiteData = {
     ],
     "About": [
       {
-        name: "MyEVM Biz on X.com",
-        url: "https://x.com/myevmbiz",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Pro on X.com",
-        url: "https://x.com/myevmpro",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Vip on X.com",
-        url: "https://x.com/myevmvip",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Start on X.com",
-        url: "https://x.com/myevmstart",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Win on X.com",
-        url: "https://x.com/myevmwin",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Data on X.com",
-        url: "https://x.com/myevmdata",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Games on X.com",
-        url: "https://x.com/myevmgames",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Media on X.com",
-        url: "https://x.com/myevmmedia",
-        image: "/images/x.png",
-      },
-      {
         name: "MyEVM Fun on X.com",
         url: "https://x.com/myevmfun",
-        image: "/images/x.png",
-      },
-      {
-        name: "MyEVM Casa on X.com",
-        url: "https://x.com/myevmcasa",
         image: "/images/x.png",
       },
       {
