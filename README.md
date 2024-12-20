@@ -51,6 +51,25 @@ to be added
       },
     ],
 
+    {
+        name: "ABI Wizard",
+        url: "https://abi-ninja-nextjs.vercel.app/",
+        image: "/images/abiwizard.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "EVM List",
+        image: "/images/evmlist.png",
+        code: "https://github.com/myevm-dev/",
+        url: "https://chainlist-puce-one.vercel.app/",
+      },
+            {
+        name: "Swap Pro ",
+        url: "https://swappro-brown.vercel.app/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+
 We add sites and categories mainly to [database.js](src/database.js). 
 
 There are up to 5 properties you can specify for each site: 

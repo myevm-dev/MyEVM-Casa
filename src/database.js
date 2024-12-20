@@ -8,18 +8,7 @@ export const websiteData = {
         image: "/images/casalogo.png",
         code: "https://github.com/myevm-dev/",
       },
-      {
-        name: "ABI Wizard",
-        url: "https://abi-ninja-nextjs.vercel.app/",
-        image: "/images/abiwizard.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "EVM List",
-        image: "/images/evmlist.png",
-        code: "https://github.com/myevm-dev/",
-        url: "https://chainlist-puce-one.vercel.app/",
-      },
+      
     ],
     "Fun-Demo": [
       {
@@ -41,12 +30,6 @@ export const websiteData = {
       {
         name: "Market Creator",
         image: "/images/soon.png",
-      },
-      {
-        name: "Swap Pro ",
-        url: "https://swappro-brown.vercel.app/",
-        image: "/images/prologo.png",
-        code: "https://github.com/myevm-dev/",
       },
       {
         name: "Lending and Advanced LP ",
