@@ -51,24 +51,14 @@ to be added
       },
     ],
 
-    {
-        name: "ABI Wizard",
-        url: "https://abi-ninja-nextjs.vercel.app/",
-        image: "/images/abiwizard.png",
-        code: "https://github.com/myevm-dev/",
-      },
+      "Art-Demo": [
       {
-        name: "EVM List",
-        image: "/images/evmlist.png",
+        name: "NFT Marketplace ",
+        image: "/images/artlogo.png",
         code: "https://github.com/myevm-dev/",
-        url: "https://chainlist-puce-one.vercel.app/",
+        url: "https://myevm.art",
       },
-            {
-        name: "Swap Pro ",
-        url: "https://swappro-brown.vercel.app/",
-        image: "/images/prologo.png",
-        code: "https://github.com/myevm-dev/",
-      },
+    ],
             {
         name: "MyEVM Start on X.com",
         url: "https://x.com/myevmstart",

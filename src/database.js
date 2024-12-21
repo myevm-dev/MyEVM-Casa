@@ -1,22 +1,34 @@
 export const websiteData = {
   categories: {
-    
-    "Casa": [
+    "Network": [
       {
-        name: "Dapps/Tools (This Site)",
-        url: "https://myevm.casa",
-        image: "/images/casalogo.png",
+        name: "Network",
+        image: "/images/soon.png",
         code: "https://github.com/myevm-dev/",
       },
+      {
+        name: "ISAI NFT",
+        url: "https://myevm.network",
+        image: "/images/isai.png",
+        code: "https://github.com/myevm-dev/",
+      },
+
       
     ],
     "Fun-Demo": [
+      {
+        name: "RoboUSD ",
+        image: "/images/robo.png",
+        url: "https://robo-usd.vercel.app/",
+        code: "https://github.com/yomyevm/",
+      },
       {
         name: "FrensFunder ",
         image: "/images/funlogo.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.fun",
       },
+
     ],
     "Vip-Demo": [
       {
@@ -28,8 +40,10 @@ export const websiteData = {
     ],
     "Pro-Demo": [
       {
-        name: "Market Creator",
-        image: "/images/soon.png",
+        name: "Swap Pro ",
+        url: "https://swappro-brown.vercel.app/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
       },
       {
         name: "Lending and Advanced LP ",
@@ -38,14 +52,7 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ],
-    "Art-Demo": [
-      {
-        name: "NFT Marketplace ",
-        image: "/images/artlogo.png",
-        code: "https://github.com/myevm-dev/",
-        url: "https://myevm.art",
-      },
-    ],
+    
     "Win-Demo": [
       {
         name: "Flash Liquidator",
@@ -78,23 +85,35 @@ export const websiteData = {
     "Media-Demo": [
       {
         name: "Movie Clubs",
-        image: "/images/soon.png",
+        image: "/images/movieclub.png",
         url: "https://movies-weld-beta.vercel.app/",
       },
       {
         name: "Billionaires",
-        image: "/images/soon.png",
+        image: "/images/billionaire.png",
         url: "https://real-time-billionaires-five.vercel.app/",
       },
     ],
-    "Robo-Demo": [
+    "Casa": [
       {
-        name: "RoboUSD ",
-        image: "/images/robo.png",
-        url: "https://robo-usd.vercel.app/",
-        code: "https://github.com/yomyevm/",
+        name: "ABI Wizard",
+        url: "https://abi-ninja-nextjs.vercel.app/",
+        image: "/images/abiwizard.png",
+        code: "https://github.com/myevm-dev/",
       },
-
+      {
+        name: "EVM List",
+        image: "/images/evmlist.png",
+        code: "https://github.com/myevm-dev/",
+        url: "https://chainlist-puce-one.vercel.app/",
+      },
+      {
+        name: "Dapps/Tools (This Site)",
+        url: "https://myevm.casa",
+        image: "/images/casalogo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      
     ],
     "ApeChain-Contracts": [
       {
