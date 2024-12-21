@@ -1,10 +1,11 @@
 export const websiteData = {
   categories: {
-    "Network": [
+    "VIP": [
       {
-        name: "Network",
-        image: "/images/soon.png",
-        code: "https://github.com/myevm-dev/",
+        name: "Swap Floor NFTs on Desktop (Demo)",
+        image: "/images/viplogo.png",
+        code: "https://github.com/YoMyEVM/",
+        url: "https://myevm.vip",
       },
       {
         name: "ISAI NFT",
@@ -12,33 +13,44 @@ export const websiteData = {
         image: "/images/isai.png",
         code: "https://github.com/myevm-dev/",
       },
-
+    ],
+    "Casa": [
+      {
+        name: "ABI Wizard Tool",
+        url: "https://abi-ninja-nextjs.vercel.app/",
+        image: "/images/abiwizard.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "EVM List Tool",
+        image: "/images/evmlist.png",
+        code: "https://github.com/myevm-dev/",
+        url: "https://chainlist-puce-one.vercel.app/",
+      },
+      {
+        name: "Dapps/Tools (This Site)",
+        url: "https://myevm.casa",
+        image: "/images/casalogo.png",
+        code: "https://github.com/myevm-dev/",
+      },
       
     ],
-    "Fun-Demo": [
+    "Fun": [
       {
-        name: "RoboUSD ",
+        name: "RoboUSD (Demo) ",
         image: "/images/robo.png",
         url: "https://robo-usd.vercel.app/",
         code: "https://github.com/yomyevm/",
       },
       {
-        name: "FrensFunder ",
+        name: "FrensFunder (Demo)",
         image: "/images/funlogo.png",
         code: "https://github.com/YoMyEVM/",
         url: "https://myevm.fun",
       },
 
     ],
-    "Vip-Demo": [
-      {
-        name: "Swap Floor NFTs",
-        image: "/images/viplogo.png",
-        code: "https://github.com/YoMyEVM/",
-        url: "https://myevm.vip",
-      },
-    ],
-    "Pro-Demo": [
+    "Pro": [
       {
         name: "Swap Pro ",
         url: "https://swappro-brown.vercel.app/",
@@ -46,14 +58,14 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
       {
-        name: "Lending and Advanced LP ",
+        name: "Lending and Advanced LP (Demo)",
         url: "https://myevm.pro/",
         image: "/images/prologo.png",
         code: "https://github.com/myevm-dev/",
       },
     ],
     
-    "Win-Demo": [
+    "Win": [
       {
         name: "Flash Liquidator",
         image: "/images/flashliq.png",
@@ -82,39 +94,19 @@ export const websiteData = {
         code: "https://github.com/myevm-dev/",
       },
     ], 
-    "Media-Demo": [
+    "Media": [
       {
-        name: "Movie Clubs",
+        name: "Movie Clubs (Demo)",
         image: "/images/movieclub.png",
         url: "https://movies-weld-beta.vercel.app/",
       },
       {
-        name: "Billionaires",
+        name: "Billionaires (Demo)",
         image: "/images/billionaire.png",
         url: "https://real-time-billionaires-five.vercel.app/",
       },
     ],
-    "Casa": [
-      {
-        name: "ABI Wizard",
-        url: "https://abi-ninja-nextjs.vercel.app/",
-        image: "/images/abiwizard.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      {
-        name: "EVM List",
-        image: "/images/evmlist.png",
-        code: "https://github.com/myevm-dev/",
-        url: "https://chainlist-puce-one.vercel.app/",
-      },
-      {
-        name: "Dapps/Tools (This Site)",
-        url: "https://myevm.casa",
-        image: "/images/casalogo.png",
-        code: "https://github.com/myevm-dev/",
-      },
-      
-    ],
+  
     "ApeChain-Contracts": [
       {
         name: "Wrapped Ape (Delegated Native Yield)",
@@ -211,19 +203,25 @@ export const websiteData = {
         image: "/images/myevm.png",
       },
       {
-        name: "MyEVM.Org",
-        url: "https://myevm.org",
-        image: "/images/myevm.png",
-        code: "https://github.com/myevm-dev",
-      },
-      {
         name: "Docs at MyEVM.Xyz",
         url: "https://myevm.xyz/",
         image: "/images/myevm.png",
         code: "https://github.com/myevm-dev",
       },
+      {
+        name: "MyEVM.Org",
+        url: "https://myevm.org",
+        image: "/images/myevm.png",
+        code: "https://github.com/myevm-dev",
+      },
     ],
     "Audits": [
+      {
+        name: "PWN",
+        url: "https://github.com/PWNDAO/pwn_audits",
+        image: "/images/pwnlogo.png",
+        code: "https://github.com/pwndao",
+      },
       {
         name: "Pool Together",
         url: "https://docs.pooltogether.com/security/audits",
