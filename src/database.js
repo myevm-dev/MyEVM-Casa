@@ -1,6 +1,6 @@
 export const websiteData = {
   categories: {
-    "VIP": [
+    "Vip": [
       {
         name: "Swap Floor NFTs on Desktop (Demo)",
         image: "/images/viplogo.png",
