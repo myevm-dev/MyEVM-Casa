@@ -59,6 +59,50 @@ to be added
         url: "https://myevm.art",
       },
     ],
+
+        "Pro": [
+      {
+        name: "Swap Pro ",
+        url: "https://swappro-brown.vercel.app/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Lending and Advanced LP (Demo)",
+        url: "https://myevm.pro/",
+        image: "/images/prologo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+    ],
+    "Win": [
+      {
+        name: "Flash Liquidator",
+        image: "/images/flashliq.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Analytics",
+        image: "/images/winanalytics.png",
+      },
+      {
+        name: "Vault Creator",
+        url: "https://vaultcreator.vercel.app/",
+        image: "/images/vaultcreator.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Rewards Creator",
+        url: "https://rewardscreator.vercel.app/",
+        image: "/images/rewardcreator.png",
+        code: "https://github.com/myevm-dev/",
+      },
+      {
+        name: "Stake to win",
+        url: "https://myevm.win/",
+        image: "/images/winlogo.png",
+        code: "https://github.com/myevm-dev/",
+      },
+    ], 
             {
         name: "MyEVM Start on X.com",
         url: "https://x.com/myevmstart",
