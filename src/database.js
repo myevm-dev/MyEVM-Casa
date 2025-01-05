@@ -100,8 +100,13 @@ export const websiteData = {
       },
       {
         name: "OBuyer",
-        image: "/images/soon.png",
+        image: "/images/obuyerlogo.png",
         url: "https://obuyer.vercel.app/",
+      },
+      {
+        name: "USAi",
+        image: "/images/usailogo.png",
+        url: "https://us-ai.vercel.app/",
       },
 
     ],
