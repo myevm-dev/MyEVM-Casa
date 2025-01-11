@@ -110,12 +110,12 @@ export const websiteData = {
       },
       {
         name: "Abstract Auctions (Demo)",
-        image: "/images/soon.png",
+        image: "/images/abstractauctions.png",
         url: "https://abstractauctions.vercel.app/",
       },
       {
         name: "DailyGen.Art (Demo)",
-        image: "/images/soon.png",
+        image: "/images/dailygenlogo.png",
         url: "https://dailygen.art/",
       },
     ],
