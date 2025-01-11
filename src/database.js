@@ -113,6 +113,11 @@ export const websiteData = {
         image: "/images/soon.png",
         url: "https://abstractauctions.vercel.app/",
       },
+      {
+        name: "DailyGen.Art (Demo)",
+        image: "/images/soon.png",
+        url: "https://dailygen.art/",
+      },
     ],
     
   
