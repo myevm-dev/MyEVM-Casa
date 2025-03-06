@@ -118,6 +118,11 @@ export const websiteData = {
         image: "/images/dailygenlogo.png",
         url: "https://dailygen.art/",
       },
+      {
+        name: "Cheddar's Menu Quiz",
+        image: "/images/soon.png",
+        url: "https://menuquiz.vercel.app/",
+      },
     ],
     
   
